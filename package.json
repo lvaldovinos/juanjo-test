@@ -1,0 +1,20 @@
+{
+  "name": "juanjo-test",
+  "version": "1.0.0",
+  "description": "Javascript exercises to test my skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test"
+  },
+  "keywords": [
+    "javascript",
+    "test",
+    "skills"
+  ],
+  "author": "Luis Valdovinos",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "should": "^5.2.0"
+  }
+}
